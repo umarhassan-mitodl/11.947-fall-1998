@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "1998",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "e4625f0b-c44f-8fbf-eb7b-459c8dba26f1",
+  "instructors": {
+    "content": [
+      "e539f144-0abc-1876-1406-78a60fb4c81f",
+      "3305befb-8d4b-b1bc-fa98-0b907d6a4746"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7e5f0890-a27d-83a0-8d37-900002ffa519",
+    "website": "11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998"
+  },
+  "course_title": "Imaging the City: The Place of Media in City Design and Development",
+  "course_description": "Kevin Lynch's landmark volume, _The Image of the City_ (1960), emphasized the perceptual characteristics of the urban environment, stressing the ways that individuals mentally organize their own sensory experience of cities. Increasingly, however, city imaging is supplemented and constructed by exposure to visual media, rather than by direct sense experience of urban realms. City images are not static, but subject to constant revision and manipulation by a variety of media-savvy individuals and institutions. In recent years, urban designers (and others) have used the idea of city image proactively -- seeking innovative ways to alter perceptions of urban, suburban, and regional areas. City imaging, in this sense, is the process of constructing visually-based narratives about the potential of places.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.947",
+  "course_image_thumbnail": {
+    "content": "b38fe7be-e866-e1a2-a398-03036b00cf8c",
+    "website": "11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "9463ae19-2efc-4d12-925f-6abfc5bdce46",
+  "site_short_id": "11.947-fall-1998",
+  "site_url_path": "courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998",
+  "title": "Course Metadata"
+}
